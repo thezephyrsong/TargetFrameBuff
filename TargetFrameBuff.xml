@@ -58,7 +58,7 @@
 	</Button>
 	<Button name="TargetFrameBuff11" inherits="TargetBuffButtonTemplate" id="11" parent="TargetFrame">
 		<Anchors>
-			<Anchor point="LEFT" relativeTo="TargetFrameBuff6" relativePoint="BOTTOMLEFT">
+			<Anchor point="TOPLEFT" relativeTo="TargetFrameBuff6" relativePoint="BOTTOMLEFT">
 				<Offset>
 					<AbsDimension x="0" y="-2"/>
 				</Offset>
