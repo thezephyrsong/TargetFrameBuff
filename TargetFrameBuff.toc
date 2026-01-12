@@ -1,4 +1,4 @@
-## Interface: 1700
+## Interface: 11200
 ## Title: TargetFrameBuff v0.5
 ## Notes: Shows up to 16 Buffs & Debuffs on a Target
 ## Author: lua@lumpn.de
